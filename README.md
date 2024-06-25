@@ -62,29 +62,5 @@ To run this project locally, follow these steps:
 
 Once you have opened `index.html` in your browser, you can navigate through the different sections of the site. The navigation bar allows you to jump to different sections, and the site should adjust its layout according to your screen size.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, please follow these steps:
-
-1. **Fork the repository**.
-2. **Create a new branch**:
-    ```bash
-    git checkout -b feature-branch
-    ```
-3. **Make your changes and commit them**:
-    ```bash
-    git commit -m "Add some feature"
-    ```
-4. **Push to the branch**:
-    ```bash
-    git push origin feature-branch
-    ```
-5. **Create a pull request**.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Thank you for checking out this SpaceX clone project! If you have any questions or feedback, feel free to reach out.
