@@ -7,8 +7,6 @@ This project is a simple clone of the SpaceX website, created using HTML, CSS, a
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Project Structure
 
