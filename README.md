@@ -24,7 +24,7 @@ spacex-clone/
 ├── images/
 │   └── (various images used in the project)
 ├── README.md
-└── LICENSE
+
 ```
 
 - `index.html`: The main HTML file that structures the content of the web page.
